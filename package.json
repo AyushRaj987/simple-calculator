@@ -1,0 +1,19 @@
+{
+  "name": "ayush_rj_simple_calculater",
+  "version": "1.0.6",
+  "description": "A simple salculator with typescrite and node,js and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayush saleem (roll no) 00457313",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}

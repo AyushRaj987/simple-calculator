@@ -1,2 +1,2 @@
-# simple-calculator
-assigment of GIAIC
+# simple_calculater
+ GIAIC assigment
